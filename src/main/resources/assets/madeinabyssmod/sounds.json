@@ -1,0 +1,50 @@
+{
+  "ambient.madeinabyss.thefirstlayer":
+  {
+    "category": "ambient",
+    "subtitle": "ambient.madeinabyss.thefirstlayer",
+    "sounds": [{ "name": "madeinabyssmod:ambient/madeinabyss/thefirstlayer", "Stream":  true}]
+  },
+  "ambient.madeinabyss.madeinabyss":
+  {
+    "category": "ambient",
+    "subtitle": "ambient.madeinabyss.madeinabyss",
+    "sounds": [{ "name": "madeinabyssmod:ambient/madeinabyss/madeinabyss", "Stream":  true}]
+  },
+  "ambient.madeinabyss.totheabyss":
+{
+  "category": "ambient",
+  "subtitle": "ambient.madeinabyss.totheabyss",
+  "sounds": [{ "name": "madeinabyssmod:ambient/madeinabyss/totheabyss", "Stream":  true}]
+},
+  "ambient.madeinabyss.gallantry":
+  {
+    "category": "ambient",
+    "subtitle": "ambient.madeinabyss.gallantry",
+    "sounds": [{ "name": "madeinabyssmod:ambient/madeinabyss/gallantry", "Stream":  true}]
+  },
+  "ambient.madeinabyss.pathway":
+  {
+    "category": "ambient",
+    "subtitle": "ambient.madeinabyss.pathway",
+    "sounds": [{ "name": "madeinabyssmod:ambient/madeinabyss/pathway", "Stream":  true}]
+  },
+  "ambient.madeinabyss.tomorrow":
+  {
+    "category": "ambient",
+    "subtitle": "ambient.madeinabyss.tomorrow",
+    "sounds": [{ "name": "madeinabyssmod:ambient/madeinabyss/tomorrow", "Stream":  true}]
+  },
+  "ambient.madeinabyss.rikustheme":
+  {
+    "category": "ambient",
+    "subtitle": "ambient.madeinabyss.rikustheme",
+    "sounds": [{ "name": "madeinabyssmod:ambient/madeinabyss/rikustheme", "Stream":  true}]
+  },
+  "ambient.madeinabyss.themeofreg":
+  {
+    "category": "ambient",
+    "subtitle": "ambient.madeinabyss.themeofreg",
+    "sounds": [{ "name": "madeinabyssmod:ambient/madeinabyss/themeofreg", "Stream":  true}]
+  }
+}
