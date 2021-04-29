@@ -1,6 +1,7 @@
 package me.madeinabyss.madeinabyssmod;
 
 import me.madeinabyss.madeinabyssmod.init.Commands;
+import me.madeinabyss.madeinabyssmod.init.Entitys;
 import me.madeinabyss.madeinabyssmod.proxy.CommonProxy;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -29,6 +30,7 @@ public class MadeInAbyssMod
     public void preinit(FMLPreInitializationEvent event)
     {
         proxy.preinit(event);
+        Entitys.registerEntity();
     }
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
