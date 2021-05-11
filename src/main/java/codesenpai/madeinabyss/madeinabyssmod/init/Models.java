@@ -1,4 +1,4 @@
-package me.madeinabyss.madeinabyssmod.init;
+package codesenpai.madeinabyss.madeinabyssmod.init;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
@@ -18,6 +18,7 @@ public class Models
         register(Items.grimripper);
         register(Items.nihlfont);
         register(Items.thousandhumanpin);
+        register(Item.getItemFromBlock(Blocks.artifactblock));
     }
 
     private static void register(Item item)

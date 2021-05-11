@@ -1,0 +1,6 @@
+{
+  "parent": "madeinabyssmod:block/artifactblock",
+  "textures": {
+    "all": "madeinabyssmod:blocks/artifactblock"
+  }
+}

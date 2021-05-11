@@ -1,7 +1,7 @@
-package me.madeinabyss.madeinabyssmod.init;
+package codesenpai.madeinabyss.madeinabyssmod.init;
 
-import me.madeinabyss.madeinabyssmod.MadeInAbyssConstants;
-import me.madeinabyss.madeinabyssmod.item.*;
+import codesenpai.madeinabyss.madeinabyssmod.MadeInAbyssConstants;
+import codesenpai.madeinabyss.madeinabyssmod.item.*;
 import net.minecraft.init.SoundEvents;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.Item;

@@ -1,6 +1,6 @@
-package me.madeinabyss.madeinabyssmod.proxy;
+package codesenpai.madeinabyss.madeinabyssmod.proxy;
 
-import me.madeinabyss.madeinabyssmod.init.Models;
+import codesenpai.madeinabyss.madeinabyssmod.init.Models;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;

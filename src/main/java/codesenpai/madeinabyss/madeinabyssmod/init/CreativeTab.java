@@ -1,6 +1,5 @@
-package me.madeinabyss.madeinabyssmod.init;
+package codesenpai.madeinabyss.madeinabyssmod.init;
 
-import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemStack;

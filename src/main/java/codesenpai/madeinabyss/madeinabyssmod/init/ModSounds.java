@@ -1,6 +1,6 @@
-package me.madeinabyss.madeinabyssmod.init;
+package codesenpai.madeinabyss.madeinabyssmod.init;
 
-import me.madeinabyss.madeinabyssmod.MadeInAbyssConstants;
+import codesenpai.madeinabyss.madeinabyssmod.MadeInAbyssConstants;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.SoundEvent;
 import net.minecraftforge.fml.common.registry.ForgeRegistries;

@@ -1,5 +1,6 @@
 itemGroup.madeinabysstab=Made In Abyss
 
+#Items
 item.airproducer.name=Air Producer
 item.ghostsight.name=Ghost Sight
 item.lowclassartifact1.name=Low Class Artifact
@@ -7,3 +8,6 @@ item.lowclassartifact2.name=Low Class Artifact
 item.grimripper.name=Grim Ripper
 item.nihlfont.name=Nihl Font
 item.thousandhumanpin.name=Thousand Human Pin
+
+#Blocks
+tile.artifactblock.name=Artifact Block

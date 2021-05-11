@@ -1,6 +1,6 @@
-package me.madeinabyss.madeinabyssmod.item;
+package codesenpai.madeinabyss.madeinabyssmod.item;
 
-import me.madeinabyss.madeinabyssmod.init.CreativeTab;
+import codesenpai.madeinabyss.madeinabyssmod.init.CreativeTab;
 import net.minecraft.item.Item;
 
 public class NihlFont extends Item

@@ -1,4 +1,4 @@
-package me.madeinabyss.madeinabyssmod.init;
+package codesenpai.madeinabyss.madeinabyssmod.init;
 
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.CommandException;
