@@ -1,13 +1,14 @@
 package codesenpai.madeinabyss.madeinabyssmod.block;
 
 import codesenpai.madeinabyss.madeinabyssmod.init.CreativeTab;
-import codesenpai.madeinabyss.madeinabyssmod.init.Items;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.item.Item;
 
 import java.util.Random;
+
+import static codesenpai.madeinabyss.madeinabyssmod.init.Blocks.getDrop;
 
 public class ArtifactBlock extends Block
 {
@@ -25,6 +26,8 @@ public class ArtifactBlock extends Block
     @Override
     public Item getItemDropped(IBlockState state, Random rand, int fortune)
     {
-        return Items.lowclassartifact1;
+        return getDrop(1, rand, fortune);
     }
+
+
 }
